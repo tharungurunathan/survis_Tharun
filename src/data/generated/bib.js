@@ -1,0 +1,121 @@
+﻿define({ entries : {
+    "chiu2016named": {
+        "author": "Chiu, Jason P. C. and Nichols, Eric",
+        "doi": "10.1162/tacl_a_00104",
+        "journal": "Transactions of the Association for Computational Linguistics",
+        "keywords": "NER, BiLSTM-CNN, character-embeddings, sequence-labelling, deep-learning, foundations",
+        "pages": "357--370",
+        "title": "Named Entity Recognition with Bidirectional LSTM-CNNs",
+        "type": "article",
+        "url": "https://doi.org/10.1162/tacl_a_00104",
+        "volume": "4",
+        "year": "2016"
+    },
+    "devlin2019bert": {
+        "author": "Devlin, Jacob and Chang, Ming-Wei and Lee, Kenton and Toutanova, Kristina",
+        "booktitle": "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "doi": "10.18653/v1/N19-1423",
+        "keywords": "BERT, transformer, pre-training, NER, fine-tuning, deep-learning",
+        "pages": "4171--4186",
+        "publisher": "Association for Computational Linguistics",
+        "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+        "type": "inproceedings",
+        "url": "https://doi.org/10.18653/v1/N19-1423",
+        "year": "2019"
+    },
+    "gal2016dropout": {
+        "author": "Gal, Yarin and Ghahramani, Zoubin",
+        "booktitle": "Proceedings of the 33rd International Conference on Machine Learning",
+        "keywords": "uncertainty, Monte-Carlo-dropout, Bayesian, deep-learning, calibration",
+        "pages": "1050--1059",
+        "publisher": "PMLR",
+        "title": "Dropout as a {Bayesian} Approximation: Representing Model Uncertainty in Deep Learning",
+        "type": "inproceedings",
+        "url": "https://proceedings.mlr.press/v48/gal16.html",
+        "volume": "48",
+        "year": "2016"
+    },
+    "gui2020uncertainty": {
+        "author": "Gui, Tao and Ye, Jiacheng and Zhang, Qi and Li, Zhengyan and Fei, Zichu and Gong, Yeyun and Huang, Xuanjing",
+        "booktitle": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
+        "doi": "10.18653/v1/2020.emnlp-main.181",
+        "keywords": "uncertainty, NER, sequence-labelling, label-refinement, Bayesian, Monte-Carlo-dropout",
+        "pages": "2316--2326",
+        "publisher": "Association for Computational Linguistics",
+        "title": "Uncertainty-Aware Label Refinement for Sequence Labeling",
+        "type": "inproceedings",
+        "url": "https://doi.org/10.18653/v1/2020.emnlp-main.181",
+        "year": "2020"
+    },
+    "kendall2017uncertainties": {
+        "author": "Kendall, Alex and Gal, Yarin",
+        "booktitle": "Advances in Neural Information Processing Systems",
+        "keywords": "uncertainty, aleatoric, epistemic, Bayesian, deep-learning, computer-vision",
+        "pages": "5574--5584",
+        "title": "What Uncertainties Do We Need in {Bayesian} Deep Learning for Computer Vision?",
+        "type": "inproceedings",
+        "url": "https://proceedings.neurips.cc/paper/2017/hash/2650d6089a6d640c5e85b2b88265dc2b-Abstract.html",
+        "volume": "30",
+        "year": "2017"
+    },
+    "lakshminarayanan2017simple": {
+        "author": "Lakshminarayanan, Balaji and Pritzel, Alexander and Blundell, Charles",
+        "booktitle": "Advances in Neural Information Processing Systems",
+        "keywords": "uncertainty, deep-ensembles, calibration, deep-learning, Bayesian",
+        "pages": "6402--6413",
+        "title": "Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles",
+        "type": "inproceedings",
+        "url": "https://proceedings.neurips.cc/paper/2017/hash/9ef2ed4b7fd2c810847ffa5fa85bce38-Abstract.html",
+        "volume": "30",
+        "year": "2017"
+    },
+    "lample2016neural": {
+        "author": "Lample, Guillaume and Ballesteros, Miguel and Subramanian, Sandeep and Kawakami, Kazuya and Dyer, Chris",
+        "booktitle": "Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "doi": "10.18653/v1/N16-1030",
+        "keywords": "NER, BiLSTM-CRF, sequence-labelling, deep-learning, foundations",
+        "pages": "260--270",
+        "publisher": "Association for Computational Linguistics",
+        "title": "Neural Architectures for Named Entity Recognition",
+        "type": "inproceedings",
+        "url": "https://doi.org/10.18653/v1/N16-1030",
+        "year": "2016"
+    },
+    "li2022survey": {
+        "author": "Li, Jing and Sun, Aixin and Han, Jianglei and Li, Chenliang",
+        "doi": "10.1109/TKDE.2020.2981314",
+        "journal": "IEEE Transactions on Knowledge and Data Engineering",
+        "keywords": "NER, survey, deep-learning, transformer, taxonomy, sequence-labelling",
+        "number": "1",
+        "pages": "50--70",
+        "title": "A Survey on Deep Learning for Named Entity Recognition",
+        "type": "article",
+        "url": "https://doi.org/10.1109/TKDE.2020.2981314",
+        "volume": "34",
+        "year": "2022"
+    },
+    "peters2018deep": {
+        "author": "Peters, Matthew E. and Neumann, Mark and Iyyer, Mohit and Gardner, Matt and Clark, Christopher and Lee, Kenton and Zettlemoyer, Luke",
+        "booktitle": "Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+        "doi": "10.18653/v1/N18-1202",
+        "keywords": "ELMo, contextual-embeddings, language-model, NER, deep-learning, foundations",
+        "pages": "2227--2237",
+        "publisher": "Association for Computational Linguistics",
+        "title": "Deep Contextualized Word Representations",
+        "type": "inproceedings",
+        "url": "https://doi.org/10.18653/v1/N18-1202",
+        "year": "2018"
+    },
+    "yu2020named": {
+        "author": "Yu, Juntao and Bohnet, Bernd and Poesio, Massimo",
+        "booktitle": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+        "doi": "10.18653/v1/2020.acl-main.577",
+        "keywords": "NER, span-prediction, biaffine, nested-entities, transformer, deep-learning",
+        "pages": "6470--6476",
+        "publisher": "Association for Computational Linguistics",
+        "title": "Named Entity Recognition as Dependency Parsing",
+        "type": "inproceedings",
+        "url": "https://doi.org/10.18653/v1/2020.acl-main.577",
+        "year": "2020"
+    }
+}});
